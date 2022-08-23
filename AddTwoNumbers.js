@@ -9,8 +9,8 @@
         var b=6;
         var c=a+b;
         document.write("Value of a is:" +a);
-        document.write("Value of b is:" +b);
-        document.write("The result is:" +c);
+        document.write("<br>Value of b is:" +b);
+        document.write("<br>Sum is:" +c);
     </script>
   </body>
 </html>
